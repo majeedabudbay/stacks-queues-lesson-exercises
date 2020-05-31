@@ -5,7 +5,9 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "jest-cli": "^23.4.2",
-    "jest-json-reporter": "^1.2.2"
+    "jest-json-reporter": "^1.2.2",
+    "module": "^1.2.5",
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "babel-plugin-react-html-attrs": "^2.1.0",
